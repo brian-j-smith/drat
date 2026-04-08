@@ -1,5 +1,5 @@
 Package: ParBayesianOptimization
-Version: 1.2.7
+Version: 1.2.8
 Depends: R (>= 3.4)
 Imports: data.table (>= 1.11.8), DiceKriging, stats, foreach, dbscan,
         lhs, crayon, ggplot2, ggpubr (>= 0.2.4)

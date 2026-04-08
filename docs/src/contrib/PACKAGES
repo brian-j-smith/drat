@@ -1,9 +1,9 @@
 Package: ParBayesianOptimization
-Version: 1.2.7
+Version: 1.2.8
 Depends: R (>= 3.4)
 Imports: data.table (>= 1.11.8), DiceKriging, stats, foreach, dbscan,
         lhs, crayon, ggplot2, ggpubr (>= 0.2.4)
 Suggests: knitr, rmarkdown, xgboost, doParallel, testthat
 License: GPL-2
-MD5sum: c8a215534f017aa59df810678de050c5
+MD5sum: 99cd943792ec18eb956eb32f34f07653
 NeedsCompilation: no
